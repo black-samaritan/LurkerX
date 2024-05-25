@@ -1,7 +1,7 @@
 
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
 
-[![LurkerX Logo](lurkerx.png)](https://github.com/dr-cipher/LurkerX)
+[![LurkerX Logo](lurkerx.png)](https://github.com/dr-cipher/LurkerX width="200" height="150)
 
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated spyware applications on Android devices.
 
