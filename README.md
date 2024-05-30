@@ -57,7 +57,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
   <li>The command above just install and sets up the environment for LurkerX to run without errors.
     <p>
       Visit the official tutorial page to learn how you can generate the app by using the links below:
-      <a> href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html"<img src="https://img.shields.io/badge/Tutorials_Page?style=for-the-badge&color=teal"></a>
+      <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html"<img src="https://img.shields.io/badge/Tutorials_Page?style=for-the-badge&color=teal"></a>
     </p>
   </li>
 </ol>
