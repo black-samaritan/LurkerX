@@ -37,12 +37,14 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 <h2>METHOD: 1 (Wroks On Termux &and; Linux)</h2>
 <ol>
   <li> Update your system for new updates to reflect:
-    <b>For Termux Users, run the command below:</b>
-    <pre>
-      <code>
-        apt update && apt upgrade
-      </code>
-    </pre>
+    <p>
+      <b>For Termux Users, run the command below:</b>
+      <pre>
+        <code>
+          apt update && apt upgrade
+        </code>
+      </pre>
+    </p>
     <b>For Linux Users, run the command below with sudo:</b>
     ```
     sudo apt update && apt upgrade
