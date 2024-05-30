@@ -58,11 +58,11 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
           Visit the official tutorial page to learn how you can generate the app by using the links below:<br>
     <p align="center">
       <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
-        <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=tiktok">
-        <img src="https://img.shields.io/badge/Tutorial_Page-red?style=for-the-badge&logo=youtube">
+        <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=website">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
       </a>
       <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
-        <img src="https://img.shields.io/badge/Video_Link-teal?style=for-the-badge&logo=">
+        <img src="https://img.shields.io/badge/Video_Link-grey?style=for-the-badge&logo=tiktok">
       </a>
     </p>
   </li>
