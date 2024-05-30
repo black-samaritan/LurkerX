@@ -1,3 +1,5 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<foreignObject>
 <style>
   .github-button {
   background-color: #4CAF50; /* Green */
@@ -12,6 +14,8 @@
   cursor: pointer;
 }
 </style>
+</foreignObject>
+</svg>
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
 <a class="github-button">How to use</a>
 <img src="lurkerx.png" alt="LurkerX Icon" width="100%"  height="400px" />
