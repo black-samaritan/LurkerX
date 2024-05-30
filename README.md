@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/logo.png">
+  <img src="lurkerx-screenshot.png">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-green?style=for-the-badge">
