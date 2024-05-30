@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
-## LurkerX: A Free and Open Source Malware Project for Ethical Research
+## LurkerX: A Free and Open Source Malware Project for Ethical Research (Spyware, Botnet)
 
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated botnet(spyware) applications on Android devices and Windows computers.
 
