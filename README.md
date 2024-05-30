@@ -1,4 +1,4 @@
-<link href="readme.css"/>
+<link href="readme.css"></link>
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
 <a class="github-button">How to use</a>
 <img src="lurkerx.png" alt="LurkerX Icon" width="100%"  height="400px" />
