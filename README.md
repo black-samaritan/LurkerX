@@ -2,6 +2,8 @@
 
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated spyware applications on Android devices.
 
+<img src="lurkerx-screenshot.png" alt="LurkerX Screenshot" width="100%"  height="400px" />
+
 **Disclaimer:**
 
 It is crucial to emphasize that LurkerX is intended for ethical and educational purposes only. Any misuse of this project for malicious activities is strictly prohibited and could have legal consequences. The developers of LurkerX do not condone or encourage any illegal or unethical use of this software.
