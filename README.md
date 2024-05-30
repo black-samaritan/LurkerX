@@ -60,6 +60,9 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
       <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
         <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=">
       </a>
+      <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
+        <img src="https://img.shields.io/badge/Video_Link-teal?style=for-the-badge&logo=">
+      </a>
     </p>
   </li>
 </ol>
