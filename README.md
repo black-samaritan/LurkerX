@@ -1,7 +1,19 @@
-
+<style>
+  .github-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
-[![Visit my website!](https://www.example.com/button.png)](https://www.example.com)
-
+<a class="github-button">How to use</a>
 <img src="lurkerx.png" alt="LurkerX Icon" width="100%"  height="400px" />
 
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated spyware applications on Android devices.
