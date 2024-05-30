@@ -39,9 +39,9 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
   <li> Update your system for new updates to reflect:
     <p>
       <b>For Termux Users, run the command below:</b>
-      <code>
+      <pre>
           apt update && apt upgrade
-      </code>
+      </pre>
     </p>
     <b>For Linux Users, run the command below with sudo:</b>
     ```
