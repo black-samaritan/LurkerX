@@ -1,6 +1,6 @@
 <p align="center">
   <img src="lurkerx-screenshot.png">
-  <img height="150" width="100" src="lurkerx.png">
+  <img height="120" width="100" src="lurkerx.png">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-green?style=for-the-badge">
