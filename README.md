@@ -33,6 +33,21 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 * **Stealthy Operation:** LurkerX is designed to operate stealthily, evading detection by antivirus and security software.
 * **Backdoor:** LurkerX allows advanced users to create custom commands in Shell Script for additional functionality and data collection.
 
+## How To Use
+<h2>METHOD: 1 (Wroks On Termux &and; Linux)</h2>
+<ol>
+  <li> Update your system for new updates to reflect:
+    <b>For Termux Users, run the command below:</b>
+    ```
+    apt update && apt upgrade
+    ```
+    <b>For Linux Users, run the command below with sudo:</b>
+    ```
+    sudo apt update && apt upgrade
+    ```
+  </li>
+</ol>
+
 **Ethical Usage:**
 
 LurkerX can be used for various ethical research purposes, such as:
