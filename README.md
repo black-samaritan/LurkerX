@@ -18,7 +18,7 @@
 
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
 
-**LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated spyware applications on Android devices.
+**LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated botnet(spyware) applications on Android devices and Windows computers.
 
 **Disclaimer:**
 
@@ -30,7 +30,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 * **SMS and Call Log Monitoring:** LurkerX can intercept and record all incoming and outgoing SMS messages and call logs, providing insights into the user's communication patterns.
 * **Data Exfiltration:** LurkerX can exfiltrate sensitive data from the target device, including contacts, photos, and other personal information.
 * **Stealthy Operation:** LurkerX is designed to operate stealthily, evading detection by antivirus and security software.
-* **Customizable Modules:** LurkerX allows developers to create custom modules for additional functionality and data collection.
+* **Backdoor:** LurkerX allows advanced users to create custom commands in Shell Script for additional functionality and data collection.
 
 **Ethical Usage:**
 
