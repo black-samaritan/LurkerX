@@ -1,9 +1,18 @@
 <p align="center">
+  <img src=".github/logo.png">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/dr-cipher/LurkerX?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/dr-cipher/LurkerX?style=for-the-badge&color=darkgreen">
   <img src="https://img.shields.io/github/stars/dr-cipher/LurkerX?style=for-the-badge&color=teal">
   <img src="https://img.shields.io/github/forks/dr-cipher/LurkerX?style=for-the-badge&color=cyan">
   <img src="https://img.shields.io/github/issues/dr-cipher/LurkerX?style=for-the-badge&color=red">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-dr--cipher-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research
