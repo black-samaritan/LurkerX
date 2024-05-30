@@ -38,20 +38,26 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 <ol>
   <li> Update your system for new updates to reflect:
     <p>
-      <b>For Termux Users, run the command below to update your system:</b>
+      <b>For Termux Users, copy and run the command below:</b>
       <pre>
         <code>
-          apt update && apt upgrade
+          termux-setup-storage && cd $HOME && apt update && apt upgrade && apt install openjdk-17 && pkg install git apktool python3 python3-pip -y && git clone https://github.com/dr-cipher/LurkerX.git && cd LurkerX && ls 
         </code>
       </pre>
     </p>
     <p>
-      <b>For Termux Users, run the command below:</b>
+      <b>For Linux Users, copy and run the command below:</b>
       <pre>
         <code>
-          sudo apt update && sudo apt upgrade
+          cd $HOME && sudo apt update && sudo apt upgrade && sudo apt install default-jdk git python3 python3-pip -y && git clone https://github.com/dr-cipher/LurkerX.git && cd LurkerX && ls 
         </code>
       </pre>
+    </p>
+  </li>
+  <li>The command above just install and sets up the environment for LurkerX to run without errors.
+    <p>
+      Visit the official tutorial page to learn how you can generate the app by using the links below:
+      <a> href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html"<img src="https://img.shields.io/badge/Tutorials_Page?style=for-the-badge&color=teal"></a>
     </p>
   </li>
 </ol>
