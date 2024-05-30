@@ -59,10 +59,10 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
     <p align="center">
       <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
         <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=website">
-        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
+        <img src="https://img.shields.io/badge/YouTube_Video_Link-red?style=for-the-badge&logo=youtube">
       </a>
       <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
-        <img src="https://img.shields.io/badge/Video_Link-grey?style=for-the-badge&logo=tiktok">
+        <img src="https://img.shields.io/badge/TikTok_Video_Link-grey?style=for-the-badge&logo=tiktok">
       </a>
     </p>
   </li>
