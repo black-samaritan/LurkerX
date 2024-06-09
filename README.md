@@ -34,7 +34,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 * **Backdoor:** LurkerX allows advanced users to create custom commands in Shell Script for additional functionality and data collection.
 
 ## How To Use
-<h2>METHOD: 1 (Works On Termux &and; Linux)</h2>
+<h2>METHOD: 1 (Works On Termux & Linux)</h2>
 <ol>
   <li> Update your system for new updates to reflect:
     <p>
