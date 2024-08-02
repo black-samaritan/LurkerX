@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/issues/dr-cipher/LurkerX?style=for-the-badge&color=red">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-dr--cipher-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-nemesis--guy-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
