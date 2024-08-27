@@ -5,10 +5,10 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/dr-cipher/LurkerX?style=for-the-badge&color=darkgreen">
-  <img src="https://img.shields.io/github/stars/dr-cipher/LurkerX?style=for-the-badge&color=teal">
-  <img src="https://img.shields.io/github/forks/dr-cipher/LurkerX?style=for-the-badge&color=cyan">
-  <img src="https://img.shields.io/github/issues/dr-cipher/LurkerX?style=for-the-badge&color=red">
+  <img src="https://img.shields.io/github/license/nemesis-guy/LurkerX?style=for-the-badge&color=darkgreen">
+  <img src="https://img.shields.io/github/stars/nemesis-guy/LurkerX?style=for-the-badge&color=teal">
+  <img src="https://img.shields.io/github/forks/nemesis-guy/LurkerX?style=for-the-badge&color=cyan">
+  <img src="https://img.shields.io/github/issues/nemesis-guy/LurkerX?style=for-the-badge&color=red">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Author-nemesis--guy-blue?style=flat-square">
@@ -24,7 +24,9 @@
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated botnet(spyware) applications on Android devices and Windows computers.
 
 **Installation guide:**
-[![Installation Guide](https://github.com/nemesis-guy/LurkerX/blob/main/installationguide.md)](https://github.com/nemesis-guy/LurkerX/blob/main/installationguide.md)
+<a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
+  <img src="https://img.shields.io/badge/HOW TO INSTALL-teal?style=for-the-badge&logo=website">
+</a>
 
 **Disclaimer:**
 
@@ -62,11 +64,11 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
   <li>The command above just install and sets up the environment for LurkerX to run without errors.<br>
           Visit the official tutorial page to learn how you can generate the app by using the links below:<br>
     <p align="center">
-      <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
+      <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
         <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=website">
         <img src="https://img.shields.io/badge/YouTube_Video_Link-red?style=for-the-badge&logo=youtube">
       </a>
-      <a href="https://drcipher.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
+      <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
         <img src="https://img.shields.io/badge/TikTok_Video_Link-grey?style=for-the-badge&logo=tiktok">
       </a>
     </p>
