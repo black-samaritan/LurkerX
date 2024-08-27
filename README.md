@@ -24,7 +24,7 @@
 **LurkerX** is a free and open-source malware project designed for ethical research and educational purposes. This project aims to provide researchers and security professionals with a powerful tool to understand and analyze the behavior of sophisticated botnet(spyware) applications on Android devices and Windows computers.
 
 ## Guides
-<a href="https://github.com/nemesis-guy/LurkerX/blob/main/installationguide.md">
+<a href="https://github.com/nemesis-guy/LurkerX/blob/main/InstallationGuide.md">
   <img src="https://img.shields.io/badge/HOW_TO_INSTALL-teal?style=for-the-badge&logo=website">
 </a>
 <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
