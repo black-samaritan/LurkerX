@@ -1,0 +1,11 @@
+{
+  "name": "LurkerX",
+  "author": "Nemesis Guy",
+  "version": "1.0.0",
+  "templates": ["Spyware", "Botnet (N/A)"],
+  "redirects": [
+    "https://nemesisguy.onrender.com"
+  ],
+  "requirements": ["git", "python3"],
+  "python_dependencies": ["jproperties", "requests"]
+}

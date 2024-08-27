@@ -1,0 +1,17 @@
+/*.apk
+/*.py
+__pycache__/
+/bin/__pycache__/
+/start-ups/
+/bin/*.txt
+/bin/*.spec
+/bin/*.py
+/bin/build/
+/bin/dist/
+/bin/workdir/*.py
+/bin/workdir/*.apk
+/bin/workdir/*.spec
+/bin/workdir/build/
+/bin/workdir/dist/
+/bin/workdir/requirements.txt
+/bin/workdir/__pycache__/

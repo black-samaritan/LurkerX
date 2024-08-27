@@ -1,0 +1,9 @@
+ _                _           __   __
+| |              | |          \ \ / /
+| |    _   _ _ __| | _____ _ __\ V / 
+| |   | | | | '__| |/ / _ \ '__/   \ 
+| |___| |_| | |  |   <  __/ | / /^\ \
+\_____/\__,_|_|  |_|\_\___|_| \/   \/  v1.0.0
+                                     
+YOUR ACTIONS MUST FOLLOW CODE OF CONDUCT IN THIS URL:
+https://github.com/nemesis-guy/LurkerX/code/of/conduct
