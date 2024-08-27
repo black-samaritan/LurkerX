@@ -26,13 +26,15 @@ This command clones the LurkerX repository from GitHub into your home directory 
 ls && bash install.sh
 ```
 
+This command lists the contents of the `LurkerX` directory and executes the `install.sh` script, which installs the required Python dependencies and configures the application.
+
 **4. Start LurkerX:**
 
 ```bash
 lurkerx
 ```
 
-This command lists the contents of the `LurkerX` directory and executes the `install.sh` script, which installs the required Python dependencies and configures the application.
+This command starts the LurkerX application.
 
 ### Linux Users
 
