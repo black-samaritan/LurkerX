@@ -28,7 +28,8 @@ ls && bash install.sh
 
 **4. Start LurkerX:**
 
-```lurkerx
+```bash
+lurkerx
 ```
 
 This command lists the contents of the `LurkerX` directory and executes the `install.sh` script, which installs the required Python dependencies and configures the application.
@@ -61,7 +62,8 @@ This command lists the contents of the `LurkerX` directory and executes the `ins
 
 **4. Run LurkerX:**
 
-```lurkerx
+```bash
+lurkerx
 ```
 
 This command starts the LurkerX application.
