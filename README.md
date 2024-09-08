@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-darkcyan?style=flat-square">
 </p>
 
-## LAUNCHING ON (4TH AUGUST, 2024) - STABLE RELEASE
+## LAUNCHED ON (4TH AUGUST, 2024) - STABLE RELEASE
 
 ## LurkerX: A Free and Open Source Malware Project for Ethical Research (Spyware, Botnet)
 
