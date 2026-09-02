@@ -1,4 +1,4 @@
-# How to install LurkerX v1.7.0 using Docker, August 2026
+# How to install LurkerX v1.7.3 using Docker, August 2026
 
 This guide is a bit technical. It assumes you have basic knowledge in using the CLI and Docker.
 

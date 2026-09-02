@@ -2,7 +2,7 @@
   <img height="200" width="200" src="lurkerx.png">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.7.2-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/version-1.7.3-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/the-hollowclan/LurkerX?style=for-the-badge&color=darkgreen">
   <img src="https://img.shields.io/github/stars/the-hollowclan/LurkerX?style=for-the-badge&color=teal">
   <img src="https://img.shields.io/github/forks/the-hollowclan/LurkerX?style=for-the-badge&color=cyan">

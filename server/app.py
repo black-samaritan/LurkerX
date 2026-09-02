@@ -72,8 +72,8 @@ def create_app(base_dir: Path) -> Flask:
     app = Flask(__name__, template_folder="../templates", static_folder="../static", static_url_path="/static")
     app.secret_key = os.environ.get("LURKERX_SECRET_KEY", os.urandom(24))
 
-    PROTECTED_PREFIXES = ("/", "/get_info/", "/download_apk", "/build_apk", "/build_status")
-    PUBLIC_PREFIXES = ("/validate_token", "/logout", "/receive_data/", "/static/")
+    PROTECTED_PREFIXES = ("/", "/get_info/", "/build_status")
+    PUBLIC_PREFIXES = ("/validate_token", "/logout", "/receive_data/", "/static/", "/download_apk", "/build_apk", "/download_generated_app")
 
     @app.before_request
     def require_auth():
